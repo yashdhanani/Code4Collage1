@@ -1,70 +1,139 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🎨 Code4Collage
 
-## Available Scripts
+> A collaborative and modern full-stack web project, crafted to explore the power of creativity through code.
 
-In the project directory, you can run:
+[![Live Demo](https://img.shields.io/badge/View-Live-green?style=for-the-badge&logo=vercel)](https://code4-collage1-git-main-yashs-projects-81c42f87.vercel.app/)
+[![GitHub](https://img.shields.io/github/stars/yashdhanani/Code4Collage?style=for-the-badge&logo=github)](https://github.com/yashdhanani/Code4Collage/stargazers)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Live Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🌐 **Check it out now:**  
+🔗 [https://code4-collage1-git-main-yashs-projects-81c42f87.vercel.app/](https://code4-collage1-git-main-yashs-projects-81c42f87.vercel.app/)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features
 
-### `npm run build`
+- 💻 React.js frontend with modern UI
+- ⚙️ Express.js backend with RESTful API
+- 🎨 Tailwind CSS styling
+- 🔒 Authentication-ready (JWT-based setup)
+- 🌐 Vercel deployment for lightning-fast delivery
+- 🛠️ Easily extendable for personal or team projects
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🖼️ Preview
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> _(Insert screenshot of the homepage or app preview here)_
 
-### `npm run eject`
+```
+📁 public/
+└── preview.png
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧰 Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📦 Project Structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+code4collage/
+├── frontend/        # React App
+│   └── ...
+├── backend/         # Node/Express server
+│   └── ...
+├── .env             # Environment variables (not tracked)
+├── .gitignore
+├── README.md
+└── package.json
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🛠️ Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 1. Clone the Repository
 
-### Analyzing the Bundle Size
+```bash
+git clone https://github.com/yashdhanani/Code4Collage.git
+cd Code4Collage
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 2. Install Dependencies
 
-### Making a Progressive Web App
+#### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+#### Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
 
-### Advanced Configuration
+### 3. Setup `.env`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Create a `.env` file and add:
 
-### Deployment
+```env
+PORT=5000
+MONGO_URI=your-mongo-uri
+JWT_SECRET=your-secret-key
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 🚀 Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Easily deployable on:
+
+- [Vercel](https://vercel.com/)
+- [Render](https://render.com/)
+- [Netlify](https://netlify.com/)
+- [AWS EC2](https://aws.amazon.com/ec2/)
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+```bash
+git checkout -b feature/feature-name
+git commit -m "Add feature"
+git push origin feature/feature-name
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+**Yashkumar Dhanani**  
+🔗 [GitHub](https://github.com/yashdhanani)  
+🔗 [LinkedIn](https://linkedin.com/in/yashkumar-dhanani)
+
+---
