@@ -26,6 +26,102 @@
 
 ---
 
+## 🎓 All Tutorials — Learn with AI, Earn Certificates
+
+Select a topic to start learning. Every course includes:
+
+✅ Step-by-step tutorials  
+✅ AI-powered coding help  
+✅ Practice problems and quizzes  
+✅ Certificate of Completion
+
+---
+
+### 🧠 Programming Languages
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
+- **Java**
+- **PHP**
+- **C / C++**
+- **C#**
+- **TypeScript**
+- **Bash**
+- **Rust**
+- **Go**
+- **Kotlin**
+- **R**
+
+---
+
+### 🌐 Web Development
+- **Bootstrap**
+- **React**
+- **Vue**
+- **Angular**
+- **SASS**
+- **Node.js**
+- **ASP.NET**
+- **Django**
+
+---
+
+### 🗃️ Databases & Backend
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- **SQL**
+- **JQuery**
+- **Express.js**
+
+---
+
+### 📊 Data & AI
+- **Data Science**
+- **NumPy**
+- **Pandas**
+- **SciPy**
+- **Gen AI (Generative AI)**
+- **AI & Machine Learning**
+
+---
+
+### 🔐 Security & Tools
+- **Cybersecurity**
+- **Git & GitHub**
+- **Bash**
+- **Intro to Programming**
+
+---
+
+## 🧑‍🏫 AI-Powered Learning Assistant
+
+Ask questions, debug code, and get personalized help 24/7 using our **built-in AI Assistant**:
+- 💡 Code explanations in real-time
+- 🧪 Error fixing suggestions
+- 📘 Personalized learning paths
+
+---
+
+## 🏆 Get Certified
+
+Every course includes a **Certificate of Completion** like this:
+
+```
+-------------------------------
+Certificate of Completion
+This is to certify that
+[Yashkumar Dhanani]
+has successfully completed the
+[Python Essentials] course.
+-------------------------------
+```
+
+Certificates are **downloadable as PDFs**, verifiable, and sharable on LinkedIn or resumes.
+
+---
+
 ## 🖼️ Preview
 
 > _(Insert screenshot of the homepage or app preview here)_
