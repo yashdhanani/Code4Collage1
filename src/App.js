@@ -16,7 +16,7 @@ import ReactMarkdown from 'react-markdown';
 // All data and helper functions are defined here, before any components.
 // ===================================================================================
 
-const API_BASE_URL = https://code4collage-backend.onrender.com/;
+const API_BASE_URL = "https://code4collage-backend.onrender.com/";
 
 function createAITipsDatabase() {
     return {
